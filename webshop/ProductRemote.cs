@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//factory method это товары, находящиейся на удаленном складе(товары под заказ)
 namespace webshop
 {
     class ProductRemote:ProductAbstract

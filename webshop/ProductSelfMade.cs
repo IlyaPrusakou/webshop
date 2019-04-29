@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//factory method это товары собственного производства
 namespace webshop
 {
     class ProductSelfMade:ProductAbstract

@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// класс, который связан с товарами, одной цене может соответсвовать несколько товаров 
+// + скидки и расчет прибыли с единицы товара
 namespace webshop
 {
     class Price

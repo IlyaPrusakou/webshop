@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// это посетитель, который не зарегестрирован, но может покупать товар
 namespace webshop
 {
     class Visitor

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//factory method товары находящиейся на складе магазина
 namespace webshop
 {
     class ProductInStorage:ProductAbstract

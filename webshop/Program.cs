@@ -39,7 +39,7 @@ namespace webshop
         Blocked = 4,
         Banned = 8
     }
-    
+    // try overloading operators
     class Program
     {
         static void Main(string[] args)
