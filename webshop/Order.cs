@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// из корзины появляется заказ и ему может соответствовать  несколько платежей(частичные оплатыб рассрочки и тд)
 namespace webshop
 {
     class Order

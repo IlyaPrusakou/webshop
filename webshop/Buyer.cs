@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// посетитель после регистрации становиться покупателем
 namespace webshop
 {
     class Buyer: Visitor

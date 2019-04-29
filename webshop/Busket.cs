@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// одному посетителю соответсвует одна корзина (временные хранилище отобраного товара), после подтверждения на основе
+// корзины формируется объект заказа
 namespace webshop
 {
     class Busket
